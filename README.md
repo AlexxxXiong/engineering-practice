@@ -1,0 +1,11 @@
+# engineering-practice
+
+基于KubeEdge的异构边缘推理平台构建与效率优化
+
+项目描述：
+
+KubeEdge是一个开源系统，用于将本机容器化的应用程序编排功能扩展到Edge上的主机，为网络、应用程序提供基本的基础架构支持。KubeEdge中的Edge元数据服务提供边缘元数据存储和服务，以在云和Edge之间同步元数据，以支持边缘节点脱机方案。KubeEdge包括Kubernetes扩展，以便Kubernetes可以管理Edge Nodes以及Cloud中的VM，并部署/管理Edge Nodes的应用程序。本课题旨在要求基于KubeEdge开源系统搭建一个异构的边缘推理平台，并设计实现合理的自动化应用程序调度手段，以实现各异构Edge Nodes的负载均衡。
+
+主要工作：
+
+平台搭建、应用程序编排、调度算法设计
